@@ -1,0 +1,26 @@
+{
+  "name": "ark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "“echo \\”Error: no test specified\\” && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IndushaS/ArkParadigmProject.git"
+  },
+  "author": "Indusha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IndushaS/ArkParadigmProject/issues"
+  },
+  "homepage": "https://github.com/IndushaS/ArkParadigmProject#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "mongoose": "^5.3.11",
+    "socket.io": "^2.1.1"
+  }
+}
